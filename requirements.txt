@@ -1,0 +1,11 @@
+nest_asyncio
+langchain 
+langchain-text-splitters 
+langchain-huggingface 
+langchain-groq 
+python-dotenv
+langchain_community
+pypdf
+gradio
+langchain-pinecone 
+PyMuPDF==1.23.6
