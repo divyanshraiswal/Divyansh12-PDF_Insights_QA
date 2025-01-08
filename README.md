@@ -1,11 +1,15 @@
 ## PDF_Insights_QA
 
----
-title: PDF_Insights_QA
-app_file: app.py
-sdk: gradio
-sdk_version: 5.10.0
----
+This project is a Retrieval-Augmented Generation (RAG) system designed to answer user queries by retrieving relevant context from PDFs and generating responses using an LLM. It uses LangChain, Pinecone for vector storage, and Groq for model inference.
+
+
+# Setup Instructions
+
+#1 Clone the Repository
+
+``` bash
+git clone 
+```
 
 
 
